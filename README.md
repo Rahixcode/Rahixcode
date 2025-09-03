@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @Rahixcode
-- 👀 I’m interested in Python and web dev
-- 🌱 I’m currently thinking of learning Web dev
-- 😄 Pronouns: He/Him
-<!---
-Rahixcode/Rahixcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Abdul Momenin
+
+💻 Aspiring Programmer | 🌱 Lifelong Learner | 🚀 Tech Enthusiast 
+
+---
+
+> "Every expert was once a beginner."  
+
+---
+
+## 🌟 About Me
+- 🎓 Completed **CS50’s Introduction to Programming with Python**  
+- 🐍 Currently solving **Python challenges, Algorithms and Data structure problems** on **HackerRank[https://www.hackerrank.com/profile/mohammadabdulmo1]**  
+- 📚 Passionate about experimenting with small projects and learning new programming concepts  
+- ⚡ I enjoy solving problems, exploring open-source code, and building practical tools  
+
+---
+
+## 🛠 Skills & Tools
+- **Languages:** Python, C++ (syntax familiarity), JavaScript (learning)  
+- **Tools & Libraries:** Rich (Python), pytest 
+- **Other Interests:** Databases, Algorithms, Open-world Games, Video Editing (DaVinci Resolve & CapCut)  
+
+---
+
+⭐ **I’m here to learn, solve problems, and grow as a coder!**  
+
