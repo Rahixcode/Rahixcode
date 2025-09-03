@@ -44,5 +44,12 @@
 
 ---
 
+## 📂 Projects
+- **CashFlow Tracker (CS50 Final Project)**  
+  A Python-based expense and income tracker with features like multiple user accounts, password protection, and sending money between accounts.  
+  **[View Repository](https://github.com/your-username/your-project-repo)**
+
+---
+
 ⭐ **I’m here to learn, solve problems, and grow as a coder!**  
 
