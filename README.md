@@ -4,24 +4,25 @@
 
 ---
 
-> "Every expert was once a beginner."  
+> "Every expert was once a beginner."
 
 ---
 
 ## 🌟 About Me
 - 🎓 Completed **CS50’s Introduction to Programming with Python**  
-- 🐍 Currently solving **Python challenges, Algorithms and Data structure problems** on **HackerRank[https://www.hackerrank.com/profile/mohammadabdulmo1]**  
+- 🐍 Currently solving **Python challenges, Algorithms, and Data structure problems** on **[HackerRank](https://www.hackerrank.com/profile/mohammadabdulmo1)
+**  
 - 📘 Completed the following topics on HackerRank:
-  - Python challenges:
-    - Introduction  
-    - Basic Data Types  
-    - Strings  
-    - Sets
-    - Itertools
-  - Data Structures:
-    - Arrays
-  - Algorithm:
-    - Warm Up
+  - 🐍 **Python Challenges**:
+    - 📝 Introduction  
+    - 🔢 Basic Data Types  
+    - ✨ Strings  
+    - 🗂 Sets  
+    - 🔄 Itertools
+- 🏗️ **Data Structures**:
+    - 📦 Arrays
+- ⚡ **Algorithms**:
+    - 🧠 Warm Up
 - 💡 Passionate about experimenting with small projects and learning new programming concepts 
 - ⚡ I enjoy solving problems, exploring open-source code, and building practical tools  
 
