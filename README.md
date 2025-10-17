@@ -40,7 +40,7 @@
   📈 math – mathematical functions and calculations  
   🔢 random – generating random data (for testing or projects)  
   📤 json – working with JSON files (for saving/loading structured data)  
-- **Other Interests:** Databases, Algorithms, Open-world Games, Video Editing (DaVinci Resolve & CapCut)  
+- **Other Interests:** Exploring new libraries, strengthening algorithmic thinking, experimenting with small projects, and continuously learning new programming concepts to write cleaner and more efficient code   
 
 ---
 
