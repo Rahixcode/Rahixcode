@@ -11,18 +11,19 @@
 ## 🌟 About Me
 - 🎓 Completed **CS50’s Introduction to Programming with Python**  
 - 🐍 Currently solving **Python challenges, Algorithms, and Data structure problems** on **[HackerRank](https://www.hackerrank.com/profile/mohammadabdulmo1)**
+- 🏆 Achieved **5⭐ in Python** and **5⭐ in Problem Solving** 
    
 - 📘 _**Completed the following topics on HackerRank🥇:**_
   - 🐍 **Python Challenges**:
-    - 📝 Introduction  
-    - 🔢 Basic Data Types  
-    - ✨ Strings  
-    - 🗂 Sets  
-    - 🔄 Itertools
-- 🏗️ **Data Structures**:
-    - 📦 Arrays
-- ⚡ **Algorithms**:
-    - 🧠 Warm Up
+      - 📝 Introduction  
+      - 🔢 Basic Data Types  
+      - ✨ Strings  
+      - 🗂 Sets  
+      - 🔄 Itertools
+  - 🏗️ **Data Structures**:
+      - 📦 Arrays
+  - ⚡ **Algorithms**:
+      - 🧠 Warm Up
 - 💡 Passionate about experimenting with small projects and learning new programming concepts 
 - ⚡ I enjoy solving problems, exploring open-source code, and building practical tools  
 
