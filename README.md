@@ -42,13 +42,6 @@
 
 ---
 
-## 🎯 Current Focus
-- Improving problem-solving skills on HackerRank  
-- Learning GUI development with Tkinter  
-- Building small Python projects to strengthen fundamentals  
-
----
-
 ## 🛠 Skills & Tools
 - **Languages:** Python, C++ (syntax familiarity)  
 - **Libraries & Tools:**  
