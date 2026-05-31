@@ -36,9 +36,15 @@
 ---
 
 ## 📂 Projects
-- **Basic Expense Logger (CS50 Final Project)**  
-  A command-line tool to track daily expenses using CSV for storage and Rich for formatted output.  
-  Features include logging expenses, viewing history, and calculating total spending.  
+### 🧾 Basic Expense Logger
+CS50P Final Project
+
+- Track daily expenses
+- View expense history
+- Calculate total spending
+- Built with Python, CSV, Rich, and Pytest
+
+🔗 [Repository]([YOUR_REPOSITORY_LINK](https://github.com/Rahixcode/Basic-Expense-Logger))  
 
 ---
 
