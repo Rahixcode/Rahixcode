@@ -44,7 +44,7 @@ CS50P Final Project
 - Calculate total spending
 - Built with Python, CSV, Rich, and Pytest
 
-🔗 [Repository]([YOUR_REPOSITORY_LINK](https://github.com/Rahixcode/Basic-Expense-Logger))  
+🔗 [Repository](https://github.com/Rahixcode/Basic-Expense-Logger)
 
 ---
 
